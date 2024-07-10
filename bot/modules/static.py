@@ -1,12 +1,8 @@
 WelcomeText = \
 """
-Hi **%(first_name)s**, send me a file or add me as an admin to any channel to instantly generate file links.
+Hɪ! **%(first_name)s** Tʜɪs Is A Tᴇʟᴇɢʀᴀᴍ Fɪʟᴇ (Dᴏᴄᴜᴍᴇɴᴛs, Vɪᴅᴇᴏ, Aᴜᴅɪᴏ, Pʜᴏᴛᴏ, Eᴛᴄ.) Tᴏ Dɪʀᴇᴄᴛ Hɪɢʜ Sᴘᴇᴇᴅ Dᴏᴡɴʟᴏᴀᴅ Lɪɴᴋ Gᴇɴᴇʀᴀᴛᴏʀ Bᴏᴛ.
 
-Add me to your channel to instantly generate links for any downloadable media. Once received, I will automatically attach appropriate buttons to the post containing the URL. If you want me to ignore a given post, you can insert `#pass` in the post.
-
-- /start to get this message.
-- /info to get user info.
-- /log to get bot logs. (admin only!)
+Nᴏᴛᴇ: Dᴏɴ'ᴛ Fᴏʀᴡᴀʀᴅ Pᴏʀɴ Fɪʟᴇs Tᴏ Mᴇ, Yᴏᴜ Wɪʟʟ Gᴇᴛ Pᴇʀᴍᴀɴᴇɴᴛ Bᴀɴ.
 """
 
 UserInfoText = \
